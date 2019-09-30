@@ -1,9 +1,9 @@
 ###############################################################
 # Program:
 #     Week 13, Geneology Project
-#     Brother Ercanbrack, CS235
+#     Data structures, CS235
 # Author:
-#     Claire Haderlie
+#     Claire Haderlie Hocker
 # Summary:
 #     This program reads in a .ged file from the command line.
 #     It inserts the information into Persons and puts the Persons
@@ -19,7 +19,6 @@
 #     appropriate Persons. The program then outputs each generation
 #     of ancestors to the screen.
 #
-#  Approximate Time: about 21 hours.
 #
 #############################################################
 
